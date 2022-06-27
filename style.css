@@ -1,0 +1,37 @@
+/* https://www.dukelearntoprogram.com//course1/doc/#css */
+
+
+
+h1 {
+	color: navy;
+	text-align: center;
+	text-decoration: underline;
+	border: rosybrown dashed;
+}
+
+h2 {
+	color: #800;
+}
+
+.movies {
+color: blueviolet;
+}
+
+.explanation {
+background-color: #FAEBD7;
+opacity: 0.65;
+
+}
+
+.fdtable {
+	color: #d99d4e;
+	border: 1px dotted;
+	height: 20px;
+
+}
+
+.veg {
+	color: rgb(0,0,0);
+}
+
+/* max the red and green portion creates yellow
